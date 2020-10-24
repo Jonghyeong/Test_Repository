@@ -1,3 +1,6 @@
 #Inclass Exercise
 
-print("Hello")
+print("hello")
+print("test 1")
+
+
